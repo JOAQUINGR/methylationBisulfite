@@ -1,0 +1,416 @@
+pigz 2.5
+Analysis complete for BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1.fq.gz
+Analysis complete for BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2.fq.gz
+pigz 2.5
+Analysis complete for BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1.fq.gz
+Analysis complete for BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2.fq.gz
+Archive:  BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc.zip
+   creating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/
+   creating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/
+   creating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/error.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/summary.txt  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc.fo  
+Archive:  BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc.zip
+   creating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/
+   creating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/
+   creating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/error.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/summary.txt  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc.fo  
+Archive:  BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc.zip
+   creating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/
+   creating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/
+   creating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/error.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/summary.txt  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS01_FDDM202335881-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc.fo  
+Archive:  BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc.zip
+   creating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/
+   creating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/
+   creating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/error.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/summary.txt  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS01_FDDM202335881-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc.fo  
+pigz 2.5
+Analysis complete for BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1.fq.gz
+Analysis complete for BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2.fq.gz
+pigz 2.5
+Analysis complete for BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1.fq.gz
+Analysis complete for BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2.fq.gz
+Archive:  BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc.zip
+   creating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/
+   creating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/
+   creating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/error.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/summary.txt  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc.fo  
+Archive:  BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc.zip
+   creating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/
+   creating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/
+   creating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/error.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/summary.txt  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc.fo  
+Archive:  BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc.zip
+   creating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/
+   creating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/
+   creating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/error.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/summary.txt  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS02_FDDM202335882-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc.fo  
+Archive:  BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc.zip
+   creating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/
+   creating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/
+   creating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/error.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/summary.txt  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS02_FDDM202335882-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc.fo  
+pigz 2.5
+Analysis complete for BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1.fq.gz
+Analysis complete for BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2.fq.gz
+pigz 2.5
+Analysis complete for BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1.fq.gz
+Analysis complete for BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2.fq.gz
+Archive:  BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc.zip
+   creating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/
+   creating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/
+   creating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/error.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/summary.txt  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc.fo  
+Archive:  BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc.zip
+   creating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/
+   creating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/
+   creating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/error.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/summary.txt  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc.fo  
+Archive:  BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc.zip
+   creating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/
+   creating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/
+   creating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/error.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/summary.txt  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS03_FDDM202335883-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc.fo  
+Archive:  BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc.zip
+   creating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/
+   creating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/
+   creating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/error.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/summary.txt  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS03_FDDM202335883-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc.fo  
+pigz 2.5
+pigz 2.5
+Archive:  BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc.zip
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/error.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/summary.txt  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS06_FDDM202335886-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc.fo  
+Archive:  BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc.zip
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/error.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/summary.txt  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc.fo  
+Archive:  BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc.zip
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/error.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/summary.txt  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS06_FDDM202335886-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc.fo  
+pigz 2.5
+Analysis complete for BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1.fq.gz
+Analysis complete for BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2.fq.gz
+pigz 2.5
+Analysis complete for BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1.fq.gz
+Analysis complete for BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2.fq.gz
+Archive:  BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc.zip
+   creating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/
+   creating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/
+   creating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/error.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/summary.txt  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_2_val_2_fastqc/fastqc.fo  
+Archive:  BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc.zip
+   creating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/
+   creating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/
+   creating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/error.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/summary.txt  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS07_FDDM202335887-1a_H35FVDSXY_L1_1_val_1_fastqc/fastqc.fo  
+Archive:  BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc.zip
+   creating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/
+   creating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/
+   creating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/fastqc_icon.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/warning.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/error.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Icons/tick.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/summary.txt  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_tile_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/per_base_n_content.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/duplication_levels.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/Images/adapter_content.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_report.html  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc_data.txt  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_1_val_1_fastqc/fastqc.fo  
+Archive:  BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc.zip
+   creating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/
+   creating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/
+   creating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/fastqc_icon.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/warning.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/error.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Icons/tick.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/summary.txt  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_tile_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_quality.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_sequence_content.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_sequence_gc_content.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/per_base_n_content.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/sequence_length_distribution.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/duplication_levels.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/Images/adapter_content.png  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_report.html  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc_data.txt  
+  inflating: BS07_FDDM202335887-1a_H35H3DSXY_L3_2_val_2_fastqc/fastqc.fo  
